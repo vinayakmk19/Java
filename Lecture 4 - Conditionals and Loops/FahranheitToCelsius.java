@@ -50,7 +50,7 @@ public class FahranheitToCelsius {
 		int E = sc.nextInt();
 		int d = sc.nextInt();
 //		int celsius = 0;
-		System.out.println("Fahranheit"+" "+"Celsius0");
+		System.out.println("Fahranheit"+" "+"Celsius");
 		
 		while(S <= E) {
 			int celsius = (S - 32) * 5/9;
